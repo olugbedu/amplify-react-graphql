@@ -1,10 +1,5 @@
 const quizData = [
     {
-      question: "What was the first video game ever made?",
-      options: ["Pong", "Spacewar!", "Tetris", "Computer Space"],
-      answer: "Spacewar!"
-    },
-    {
       question: "Which company developed the first commercial antivirus software?",
       options: ["Symantec", "McAfee", "Norton", "Kaspersky Lab"],
       answer: "McAfee"
